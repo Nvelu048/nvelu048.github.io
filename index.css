@@ -298,6 +298,10 @@ ul {
   box-shadow: 2px 9px 11px 0px rgba(0, 0, 0, 0.75);
 }
 
+.work-experience:hover {
+  transform: scale(1.1);
+}
+
 .experience-container {
   display: grid;
   grid-gap: 10px;
